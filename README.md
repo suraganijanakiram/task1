@@ -2,7 +2,16 @@
 ● Build instructions
 
 you need bash shell to execute this script.
+
 make you you have provided executable permissions to the script.
+
+make sure you have coreutils.x86_64 package on your server.
+
+RHEL:
+yum install coreutils.x86_64
+
+DEBIAN:
+apt-get install coreutils.x86_64
 
 ● Usage
 chmod 755 test1.sh
