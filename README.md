@@ -1,4 +1,4 @@
-# test1
+# task1
 ● Build instructions
 
 you need bash shell to execute this script.
