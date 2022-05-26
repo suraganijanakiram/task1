@@ -2,9 +2,10 @@
 ● Build instructions
 
 you need bash shell to execute this script.
+make you you have provided executable permissions to the script.
 
 ● Usage
-
+chmod 755 test1.sh
 ./test1.sh
 
 ● Description
