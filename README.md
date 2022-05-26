@@ -1,5 +1,5 @@
 # task1
-● Build instructions :
+**Build instructions :**
 
 you need bash shell to execute this script.
 
